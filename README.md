@@ -4,6 +4,7 @@ PHP ile kullanıcıların robot mu değil mi olduğunu kontrol eden bir güvenli
 
 
 Kullanıcı doğrulama işlemini yaparken eğer yanlış bir tuşlama yapar ise;
+
 <img width="253" alt="Ekran Resmi 2023-11-03 18 59 42" src="https://github.com/dikiciemre/PHP_guvenlik_kodu_uygulamasi/assets/103147965/90364c8b-b2cd-4734-b14b-b0f95797257f">
 
 Yukarıda görüldüğü gibi "Güvenlik kodu yanlış girildi ! " uyarısı vermektedir.
@@ -15,6 +16,7 @@ Yukarıda görüldüğü gibi "Güvenlik kodu yanlış girildi ! " uyarısı ver
 
 
 Kullanıcı doğrulama işlemini yaparken eğer doğru bir tuşlama yapar ise;
+
 <img width="233" alt="Ekran Resmi 2023-11-03 18 59 28" src="https://github.com/dikiciemre/PHP_guvenlik_kodu_uygulamasi/assets/103147965/e62af819-9fda-4238-af81-cd359719bacd">
 
 Yukarıda görüldüğü gibi "Güvenlik kodu doğru girildi ! " uyarısı vermektedir.

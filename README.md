@@ -1,4 +1,11 @@
 # PHP_guvenlik_kodu_uygulamasi
+
+
+
+![php](https://github.com/dikiciemre/PHP_guvenlik_kodu_uygulamasi/assets/103147965/9d411049-85b2-48aa-9ffd-e99a77dc4971)
+
+
+
 PHP ile kullanıcıların robot mu değil mi olduğunu kontrol eden bir güvenlik kofu uygulaması geliştirdim. (.I developed a captcha application with PHP that checks whether users are robots or not. )
 
 

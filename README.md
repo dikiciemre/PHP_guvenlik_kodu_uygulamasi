@@ -10,6 +10,14 @@ PHP ile kullanıcıların robot mu değil mi olduğunu kontrol eden bir güvenli
 
 
 
+
+
+***************************************************************************************
+
+
+
+
+
 Kullanıcı doğrulama işlemini yaparken eğer yanlış bir tuşlama yapar ise;
 
 
